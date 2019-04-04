@@ -1,0 +1,18 @@
+
+html{
+	background-color: linear-gradient(#F08080, #FFA07A, #FFEFD5);
+}
+
+table {
+  margin-top: 20px;
+  text-align: center;
+  padding: 20px;
+  margin: 30px;
+
+}
+
+table,
+th,
+td {
+  border: 3px solid ;
+}
